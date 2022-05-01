@@ -1,0 +1,11 @@
+{
+ "name": "TAD Token",
+ "website": "https://tadcoin.us/",
+ "description": "The TAD is built on top of Binance Smart Chain, a Pokemon inspired digital pet world where anyone can earn tokens for skilled gameplay and contribution to the ecosystem.",
+ "explorer": "https://bscscan.com/token/0xa3f2d13e003f2fe1f113cf265b2a629494af4459",
+ "type": "BEP20",
+ "symbol": "TAD",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xa3f2d13e003f2fe1f113cf265b2a629494af4459"
+}
